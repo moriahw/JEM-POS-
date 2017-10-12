@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JEM POS", "JEM POS\JEM POS.csproj", "{7BD7F537-7C03-4C32-97D9-42BC166F4C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD7F537-7C03-4C32-97D9-42BC166F4C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD7F537-7C03-4C32-97D9-42BC166F4C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD7F537-7C03-4C32-97D9-42BC166F4C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD7F537-7C03-4C32-97D9-42BC166F4C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDB9682-54F9-4B79-8D60-6FA6C3C7C76F}
+	EndGlobalSection
+EndGlobal
